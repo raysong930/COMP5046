@@ -3,7 +3,7 @@
 
 
 <b>[XXX] = Lecture/Lab Reference</b><br/>
-<b>(Justify your decision) =</b> Please justify your decision/selection in the documentation.  You must show your final decision in your report with empirical evidence.<br/>
+<b>(Justify your decision) =</b> Please justify your decision/selection in the documentation.  You must show your final decision in your report with empirical（有经验的） evidence.<br/>
 <b>(Explain the performance) =</b> Please explain the trend of performance, and the reason (or your opinion) why the trends show like that
 
 <br>
